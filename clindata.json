@@ -1,2 +1,7 @@
-  { clinename:'国医馆', local:'天河区1号',call:'40018012600'}
+ {
+	"data": [{
+			"author": "李医生",
+			"dynasty": "国医堂",
+			"title": "主任医师"}]
+ }
 
