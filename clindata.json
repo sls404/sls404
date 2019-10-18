@@ -1,9 +1,9 @@
 [
     {
        
-        "clinename":国医馆,
-        "local":天河区1号,
-        "call":40018012600
+        clinename:'国医馆',
+        local:'天河区1号',
+        call:'40018012600'
         
     }
 ]
